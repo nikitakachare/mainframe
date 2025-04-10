@@ -17,5 +17,5 @@
            ACCEPT NUM2.
            COMPUTE SUM = NUM1 + NUM2.
            DISPLAY "The sum of the two numbers is: " SUM.
-         
+           display "commit performed successfully.".
            STOP RUN.
